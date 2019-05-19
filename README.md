@@ -1,3 +1,4 @@
-# ¤¶²Ð
-³o­ÓRepository¥Î¨Ó¬ö¿ý¾Ç²ßFlask®É©Ò§@ªº½m²ß
-> ¾Ç²ßµ§°O: https://hackmd.io/c/SyR6D_sDV/%2Fs%2FSJi6nIfBV
+# ä»‹ç´¹
+
+é€™å€‹Repositoryç”¨ä¾†ç´€éŒ„å­¸ç¿’Flaskæ™‚æ‰€ä½œçš„ç·´ç¿’
+å­¸ç¿’ç­†è¨˜: https://hackmd.io/c/SyR6D_sDV/%2Fs%2FSJi6nIfBV
