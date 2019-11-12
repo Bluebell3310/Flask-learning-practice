@@ -2,7 +2,7 @@ import os
 basedir = os.path.abspath(os.path.dirname(__file__))
 
 class Config:
-    SECRET_KEY = os.environ.get('SECRET_KEY') or "bluebell3310's flask website"
+    SECRET_KEY = os.environ.get('SECRET_KEY') or "netjagaimo's flask website"
     SQLALCHEMY_TRACK_MODIFICATIONS = False # 減少記憶體使用
     MAIL_SERVER = 'smtp.googlemail.com'
     MAIL_PORT = int(os.environ.get('MAIL_PORT', 587))
